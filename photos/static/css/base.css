@@ -1,0 +1,21 @@
+#play{
+    margin:2%;
+    padding: 1%;
+    border-radius: 10px;
+}
+body
+{
+    background-color: #fff;
+    color: #000;
+}
+/* #play
+{
+    width: 500px;
+    height: 400px;
+    transition: 0.5s;
+}
+#play:hover{
+    width: 200px;
+    height: 350px;
+    opacity: 0.5;
+} */
