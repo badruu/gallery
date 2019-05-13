@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django_extensions',
     'photos.apps.PhotosConfig',
     'bootstrap3',
     'django_cleanup',
