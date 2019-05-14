@@ -3,13 +3,18 @@ body
     background-color: #fff;
     color: #000;
 }
-/* #play
+.figure
 {
-    width: 500px;
-    height: 400px;
+    padding-bottom: 2%;
+}
+img
+{
+    border-image: 20%;
+    width: 600px;
+    height: 500px;
     transition: 0.5s;
 }
-#play:hover{
+/* #figure:hover{
     width: 200px;
     height: 350px;
     opacity: 0.5;
